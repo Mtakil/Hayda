@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "493136809736",
+    "firebase_url": "https://hayda-97faf.firebaseio.com",
+    "project_id": "hayda-97faf",
+    "storage_bucket": "hayda-97faf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493136809736:android:792790aa3e3e695b",
+        "android_client_info": {
+          "package_name": "com.example.melike.hayda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493136809736-1slsofg6m3kvhml21qofvu2n10infg01.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.melike.hayda",
+            "certificate_hash": "44d795cd5389d3a60951bea6d4f7132b0617e233"
+          }
+        },
+        {
+          "client_id": "493136809736-lnja06ei7obaes6euhtngk0ut0h006r3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtKR0BDZSqhKhGP_R2YGuXNP_Mok5vPHE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493136809736-lnja06ei7obaes6euhtngk0ut0h006r3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
